@@ -16,5 +16,6 @@ class Anagram
   end
 end
 
-listen = Anagram.new("")
+listen = Anagram.new("listen")
+
 
