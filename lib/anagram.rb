@@ -7,5 +7,5 @@ class Anagram
   end
   
   def match(find_anagram_in_this_string)
-    puts "Must find #{self.word_to_analyze}"
+    puts "Must find #{self.word_to_analyze} inside the following string"
 
