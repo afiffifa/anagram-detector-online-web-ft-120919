@@ -7,5 +7,4 @@ class Anagram
   end
   
   def match(find_anagram_to_analayze)
-end
 
