@@ -6,4 +6,4 @@ class Anagram
     @word_to_analyze = word_to_analyze
   end
   
-  def match(find)
+  def match(find_anagram_to_analayze)
